@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "id": "3C88O",
+      "code": "DS4L0",
+      "name": "John",
+      "designation": "Software Enginner",
+      "department": "IT",
+      "status": "Active",
+      "image": "john.jpg"
+    },
+    {
+      "id": "EMNFH",
+      "code": "49VWX",
+      "name": "testing first",
+      "designation": "Sample Designation",
+      "department": "Finance",
+      "status": "Active",
+      "image": "testing-first.jpg"
+    },
+    {
+      "id": "D8U0Z",
+      "code": "AHJNM",
+      "name": "Darsana M",
+      "designation": "Project Lead",
+      "department": "Finance",
+      "status": "Active",
+      "image": "darsana.jpg"
+    }
+  ]
+}
